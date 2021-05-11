@@ -11,7 +11,7 @@ This calculator is version 2.00.
 
 1. Download the tkCalculator zip file. 
 2. Unzip the file any location you would like. 
-3. execute the tkCalculator.exe file.
+3. execute the tkCalculator.exe file in the dist folder.
 ### References
 - `tkCalculator1` : [https://www.instructables.com/How-to-Make-Your-First-Simple-Software-Using-Pytho/](https://www.instructables.com/How-to-Make-Your-First-Simple-Software-Using-Pytho/)
 - `tkCalculator2` : [https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/]( https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/)
